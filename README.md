@@ -14,9 +14,4 @@ O objetivo é uma aplicação web completa utilizando **React**, **TypeScript** 
 * [React Router Dom](https://reactrouter.com/) (Navegação)
 * CSS Puro (Design Responsivo e Dark Mode)
 
-Para que o projeto funcione corretamente, é necessário rodar o **Front-end** e o **Back-end** simultaneamente.
-
-### 1. Clonar o repositório
-```bash
-git clone [https://github.com/Molkyn/Catalogo-Filmes-Series](https://github.com/Molkyn/Catalogo-Filmes-Series)
-cd catalogo-filmes
+Para que o projeto funcione corretamente, é necessário rodar o **Front-end** e o **Back-end** simultaneamente
